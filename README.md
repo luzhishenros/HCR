@@ -1,6 +1,5 @@
 HCR
 ===
 
-Home Care Robot
 
-HCR is a Home Care Robot .HCR project complies with open source protocol.
+HCR(Home Care Robot)是一款遵守开源协议的机器人小车。
